@@ -20,7 +20,22 @@ Works for any domain: engineering, coaching, consulting, product, research, oper
 
 ## Setup
 
-### 1. Clone
+### 1. Download the template
+
+**Option A — Download ZIP (easiest, no Git needed)**
+
+1. Click the green **Code** button at the top of this page
+2. Click **Download ZIP**
+3. Unzip the file anywhere on your computer (Desktop, Documents, etc.)
+4. Rename the folder to something meaningful, e.g. `my-os`
+
+**Option B — GitHub Desktop (visual Git app)**
+
+1. Install [GitHub Desktop](https://desktop.github.com) if you haven't
+2. Click the green **Code** button → **Open with GitHub Desktop**
+3. Choose where to save it on your computer
+
+**Option C — Terminal (for developers)**
 
 ```bash
 git clone https://github.com/psisquare/personal-os-template.git my-os
