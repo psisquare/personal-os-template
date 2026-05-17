@@ -107,4 +107,4 @@ my-os/
 ## Requirements
 
 - [Claude Code](https://claude.ai/code) (CLI or desktop app)
-- Any Claude plan (Free works; Pro/Team recommended for memory features)
+- Claude Pro plan or higher (required for Claude Code access)
